@@ -1,0 +1,11 @@
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\bin\Debug\Crud.exe.config
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\bin\Debug\Crud.exe
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\bin\Debug\Crud.pdb
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\obj\Debug\Crud.csproj.AssemblyReference.cache
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\obj\Debug\Crud.csproj.SuggestedBindingRedirects.cache
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\obj\Debug\Crud.Form1.resources
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\obj\Debug\Crud.Properties.Resources.resources
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\obj\Debug\Crud.csproj.GenerateResource.cache
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\obj\Debug\Crud.exe
+D:\Codiguinhos - Luan\TesteIBID\Crud\Crud\obj\Debug\Crud.pdb
